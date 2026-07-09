@@ -1,0 +1,8 @@
+agent_name = " MicDrop-ai"
+secret_set = " MicDrop-ai-secrets"
+agent_profile = "agent-1x"
+[krisp_viva]
+	audio_filter = "tel"
+
+[scaling]
+	min_agents = 1
